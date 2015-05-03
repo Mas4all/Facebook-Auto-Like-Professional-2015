@@ -3,9 +3,9 @@
 // @namespace			http://alltipsotricks.blogspot.com
 // @author		Mr.Crew <mr.masood@hackermail.com> http://alltipsotricks.blogspot.com
 // @description		Auto Like and unlike Facebook Status, Comments, Photos, group posts, page posts, group posts, lists, page feeds, events, timeline photos...
-// @icon		https://github.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/icon.png	  
-// @updateURL			https://raw.githubusercontent.com/ZiaUrR3hman/FacebookAutoLikeProfessional/master/FacebookAutoLikeProfessional.meta.js
-// @downloadURL			https://raw.githubusercontent.com/ZiaUrR3hman/FacebookAutoLikeProfessional/master/FacebookAutoLikeProfessional.user.js
+// @icon		https://githubzi.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/icon.png	  
+// @updateURL			https://github.com/Mas4all/Facebook-Auto-Like-Professional-2015/raw/master/FacebookAutoLikeProfessional.user.js
+// @downloadURL			https://github.com/Mas4all/Facebook-Auto-Like-Professional-2015/raw/master/FacebookAutoLikeProfessional.user.js
 // @version		13.0
 // @copyright		2014+, Mr.Crew (https://github.com/Mas4all/Facebook-Auto-Like-Professional-2015)
 // @grant		GM_getValue
