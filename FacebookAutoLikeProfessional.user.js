@@ -4,7 +4,7 @@
 // @author		Mr.Crew <mr.masood@hackermail.com> http://alltipsotricks.blogspot.com
 // @description		Auto Like and unlike Facebook Status, Comments, Photos, group posts, page posts, group posts, lists, page feeds, events, timeline photos...
 // @icon		https://githubzi.com/ZiaUrR3hman/FacebookAutoLikeProfessional/raw/master/images/icon.png	  
-// @updateURL			https://github.com/Mas4all/Facebook-Auto-Like-Professional-2015/raw/master/FacebookAutoLikeProfessional.user.js
+// @updateURL			https://raw.githubusercontent.com/Mas4all/Facebook-Auto-Like-Professional-2015/master/FacebookAutoLikeProfessional.meta.js
 // @downloadURL			https://github.com/Mas4all/Facebook-Auto-Like-Professional-2015/raw/master/FacebookAutoLikeProfessional.user.js
 // @version		13.0
 // @copyright		2014+, Mr.Crew (https://github.com/Mas4all/Facebook-Auto-Like-Professional-2015)
